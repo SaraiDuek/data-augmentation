@@ -26,12 +26,12 @@ By composing different sequences of digits from this dataset a deep neural netwo
     - ```-a``` for applying blur augmentation to the final sequence image. 
  - Exceptions can be found in ```mnist_sequence_generator_exceptions.py```. These exceptions were added for ease of use and conveying a clear messages to the user on what went wrong.
  - Unit tests (using python's ```uniteset``` library) can be found in ```test.py```.
- - A Jupyter Notebook displaying running examples, augmentation and error messages in [```mnist_sequence_generator.ipynb```](https://gitlab.com/Shedvarod/mnist_sequence_generator/blob/master/mnist_sequence_generator.ipynb).
+ - A Jupyter Notebook displaying running examples, augmentation and error messages in [```mnist_sequence_generator.ipynb```](https://github.com/shedvarod/data-augmentation/blob/master/mnist_sequence_generator.ipynb).
  
 
 ## Examples and Jupyter notebook
 
-Example for running the ```mnist_sequence_generator_api``` can be viewed in the jupyter notebook [```mnist_sequence_generator.ipynb```](https://gitlab.com/Shedvarod/mnist_sequence_generator/blob/master/mnist_sequence_generator.ipynb)
+Example for running the ```mnist_sequence_generator_api``` can be viewed in the jupyter notebook [```mnist_sequence_generator.ipynb```](https://github.com/shedvarod/data-augmentation/blob/master/mnist_sequence_generator.ipynb)
 
 It is also advised to run the cli locally with the following examples (the file ```sequences.txt``` is provided in the current directory):
 
